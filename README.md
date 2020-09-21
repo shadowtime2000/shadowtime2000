@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://dev.to/shadowtime2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shadowtime2000"       height="30" width="30" /></a>
   <a href="https://kaggle.com/shadowtime2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="shadowtime2000" height="30" width="30" /></a>
+  <a href="https://github.com/shadowtime2000" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="shadowtime2000" height="30" width="30" /></a>
 </p>
