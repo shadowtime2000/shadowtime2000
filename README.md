@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" />
+</p>
 <img align="center" alt="shadowtime2000's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shadowtime2000&show_icons=true&theme=radical"/>
