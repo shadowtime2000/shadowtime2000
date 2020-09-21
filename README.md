@@ -25,4 +25,8 @@ Here are some ideas to get you started:
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
 </p>
-<img align="center" alt="shadowtime2000's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shadowtime2000&show_icons=true&theme=radical"/>
+<img align="center" alt="shadowtime2000's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shadowtime2000&show_icons=true&theme=radical" />
+<p align="center">
+  <a href="https://dev.to/shadowtime2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="shadowtime2000"       height="30" width="30" /></a>
+  <a href="https://kaggle.com/shadowtime2000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="shadowtime2000" height="30" width="30" /></a>
+</p>
