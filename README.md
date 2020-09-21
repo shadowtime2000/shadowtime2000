@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![DEV Community Logo](https://wtfutil.com/imgs/modules/devto.png)](https://dev.to/shadowtime2000)
+
 <!--
 **shadowtime2000/shadowtime2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
