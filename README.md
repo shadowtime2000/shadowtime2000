@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   <img src="https://devicon.dev/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
+  <img src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40" />
 </p>
 <img align="center" alt="shadowtime2000's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shadowtime2000&show_icons=true&theme=radical" />
 <p align="center">
